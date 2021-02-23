@@ -1,4 +1,4 @@
-# Geo_Strain
+# PyStrain
 
 ## Objectives
 
